@@ -4,6 +4,7 @@ A brief overview at my internship projects!
 ## Getting Started
 Hello, Hola, Olá, Ciao, Salut, Saluton!
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+This repository has some modded versions of other individuals' projects and some are completly made by me.
 
 ### Prerequisites
 
@@ -61,9 +62,9 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* Python - Programming Language used
+* Selenium - Dependency Library
+* OpenCv - Computer Vision
 
 ## Contributing
 
@@ -75,7 +76,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Andrej Hatzi** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Andrej Hatzi** - *Initial work* - [WildKonscia](https://github.com/)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
